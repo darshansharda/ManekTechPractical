@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ManekTechPractical</string>
+    <string name="atm_amount">ATM Amount</string>
+    <string name="atm_amount_value">Rs. %d</string>
+    <string name="enter_your_withdraw_amount">Enter your withdraw amount</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="last_transaction">Last Transaction</string>
+    <string name="rs_200">Rs.200</string>
+    <string name="rs_500">Rs.500</string>
+    <string name="rs_100">Rs.100</string>
+    <string name="rs_2000">Rs.2000</string>
+    <string name="amount">Amount</string>
+    <string name="your_transactions">Your Transactions</string>
+    <string name="please_enter_amount">Please enter amount</string>
+    <string name="please_enter_valid_amount">Please enter amount more than 0 and multiple of 100</string>
+    <string name="not_have_balance">You don\'t have enough balance</string>
+    <string name="multiple_of_100">Please enter amount multiple of 100</string>
+</resources>
